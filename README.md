@@ -3,12 +3,6 @@
     <p align="center" style="font-weight: bold;">🚀  Agendar Contastos - APP</p>
 </h1>
 
-<br>
-
-<p align="center"> Um <strong>  Aplicativo para agendar seus contatos</strong> .</p>
-
-<br>
-
 <h1>
     <br>
     <p style="color: #e84393; font-weight: bold;">🎨 Layout</p>
