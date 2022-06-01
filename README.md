@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <p align="center" style="font-weight: bold;">🚀  Agendar Contastos - APP</p>
+    <p align="center" style="font-weight: bold;">🚀  Agendar Contatos - APP</p>
 </h1>
 
 <h1>
